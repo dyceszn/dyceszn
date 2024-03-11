@@ -15,7 +15,7 @@
 - I'm committed to elevating the African ecosystem through transformative coding initiatives.
 - I'm currently focused on education, health, and community development projects.
 - Interested in International learning opportunities to build my global knowledge base and network.
-- Langs at Uni: Rustlang, SQL and C++.
+- Langs at Uni: Rustlang, SQL and Python.
 - Langs at Altschool: JavaScript, ReactJS, and Vue.
 - Fun fact: I also make technical content.
 
