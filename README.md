@@ -25,7 +25,7 @@
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourusername/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ikenna-duruoha-5088a1302)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2)](https://twitter.com/heisdyce)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dyceszn)
