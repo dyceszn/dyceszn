@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Wagwan! I'm a Computer Science student at [Pan-Atlantic University](https://pau.edu.ng), also enrolled in the School of Software Engineering at [AltSchoolAfrica](https://engineering.altschoolafrica.com). I'm proficient in web engineering languages and dedicated to the intersection of technology and societal impact.
+  Wagwan! I'm a Computer Science student at [Pan-Atlantic University](https://pau.edu.ng) and a graduate of the School of Software Engineering at [AltSchoolAfrica](https://engineering.altschoolafrica.com). I'm proficient in web engineering languages and dedicated to leveraging technology for societal impact.
 </p>
 
 ---
